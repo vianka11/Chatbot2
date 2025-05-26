@@ -6,7 +6,7 @@ using System.Threading;
 
 class Chatbot2
 {
-    // Memory storage for user interests or past topics.
+    // Memory storage for user interests or past topics
     static Dictionary<string, string> userMemory = new Dictionary<string, string>();
 
     // Stores the last discussed topic for follow-up support
