@@ -86,7 +86,7 @@ class Chatbot2
         Console.WriteLine("Ask me about password security, scams and privacy settings.");
         Console.ResetColor();
     }
-    // Main chatbot loop for user interaction
+    // Main chatbot loop for user interaction.
     static void RunChatbot()
     {
         // Ask for the user's name
