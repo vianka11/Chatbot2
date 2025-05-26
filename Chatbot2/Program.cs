@@ -9,7 +9,7 @@ class Chatbot2
     // Memory storage for user interests or past topics
     static Dictionary<string, string> userMemory = new Dictionary<string, string>();
 
-    // Stores the last discussed topic for follow-up support
+    // Stores the last discussed topic for follow-up support.
     static string lastTopic = "";
     static string userName = "friend"; // Default name
 
